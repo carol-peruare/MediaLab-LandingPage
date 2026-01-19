@@ -1,15 +1,17 @@
 # 💻 MediaLab Landing Page
 
-> Projeto final do Curso de Extensão em HTML/CSS da UFMT (2025).
+> Projeto final do Curso de Extensão em HTML/CSS do Media Lab (2025).
 ---
 
 ## 📖 Sobre o Projeto
 
-Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT** (Campus Várzea Grande), em conjunto com o Media Lab/UFMT.
+Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT**, em conjunto com o Media Lab/UFMT.
 
 O desafio principal foi aplicar o conceito de **Pixel Perfect**, transformando um protótipo de alta fidelidade desenhado no **Figma** em código funcional.
 
-## 🎓 Conteúdo Programático Aplicado
+![Captura de tela do projeto finalizado](resultado.png)
+
+##🎓 Conteúdo Programático Aplicado
 
 Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimentos adquiridos nas aulas:
 
