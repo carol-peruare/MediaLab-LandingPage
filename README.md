@@ -5,7 +5,7 @@
 
 ## 📖 Sobre o Projeto
 
-Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT** (Campus Várzea Grande).
+Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT** (Campus Várzea Grande), em conjunto com o Media Lab/UFMT.
 
 O desafio principal foi aplicar o conceito de **Pixel Perfect**, transformando um protótipo de alta fidelidade desenhado no **Figma** em código funcional.
 
