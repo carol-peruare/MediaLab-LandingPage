@@ -9,9 +9,9 @@ Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CS
 
 O desafio principal foi aplicar o conceito de **Pixel Perfect**, transformando um protótipo de alta fidelidade desenhado no **Figma** em código funcional.
 
-![Captura de tela do projeto finalizado](resultado.png)
+<img width="800" alt="Preview" src="https://github.com/user-attachments/assets/970acdf1-5d2c-4365-b0f0-76fdb138fdaa" />
 
-##🎓 Conteúdo Programático Aplicado
+## 🎓 Conteúdo Programático Aplicado
 
 Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimentos adquiridos nas aulas:
 
