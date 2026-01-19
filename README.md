@@ -1,30 +1,20 @@
-# 💻 MediaLab Landing Page
+# MediaLab Landing Page
 
-> Projeto final do Curso de Extensão em HTML/CSS do Media Lab (2025).
----
+Este projeto é o resultado final do curso de extensão em HTML/CSS promovido pelo Media Lab em parceria com o Departamento de Engenharia de Computação e Automação (FaEng) da UFMT.
 
-## 📖 Sobre o Projeto
+O objetivo central foi aplicar o conceito de Pixel Perfect, transformando um protótipo de alta fidelidade desenvolvido no Figma em uma página web funcional e fiel ao design original.
 
-Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT**, em conjunto com o Media Lab/UFMT.
+## Desenvolvimento e Tecnologias
 
-O desafio principal foi aplicar o conceito de **Pixel Perfect**, transformando um protótipo de alta fidelidade desenhado no **Figma** em código funcional.
+Durante a construção desta Landing Page, foram aplicados conceitos fundamentais de desenvolvimento front-end:
 
-<img width="800" alt="Preview" src="https://github.com/user-attachments/assets/970acdf1-5d2c-4365-b0f0-76fdb138fdaa" />
+* **Figma to Code:** Tradução precisa de layouts visuais para código estruturado.
+* **HTML Semântico:** Uso de tags apropriadas para garantir acessibilidade e melhor indexação (SEO).
+* **CSS Moderno:** Aplicação de resets, estilização avançada e posicionamento de elementos.
+* **Formulários:** Implementação de campos de entrada, rótulos e botões para coleta de dados.
 
-## 🎓 Conteúdo Programático Aplicado
+## Autora
 
-Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimentos adquiridos nas aulas:
+* [Carolina Peruare](https://github.com/carol-peruare)
 
-* **Fundamentos Web:** Noções de design, funcionamento da web e seletores CSS.
-* **Figma to Code:** Interpretação de protótipo e conversão fiel para HTML/CSS.
-* **Estruturação Semântica:** Uso correto de tags para acessibilidade e SEO.
-* **Formulários:** Criação de campos para coleta de dados (Input, Label, Button).
-* **CSS Moderno:** Estilização, reset e posicionamento de elementos.
-
---- 
-Desenvolvido por **Carolina Peruare**, durante o curso de extensão do MediaLab - UFMT.
-  
-![Status](https://img.shields.io/badge/Status-Concluído-green)
-![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
+Projeto desenvolvido durante o curso de extensão do MediaLab - UFMT.
