@@ -1,30 +1,28 @@
 # 💻 MediaLab Landing Page
 
-> Projeto de conclusão do curso de introdução ao Desenvolvimento Web (HTML & CSS).
+> Projeto final do Curso de Extensão em HTML/CSS da UFMT (2025).
 ---
 
 ## 📖 Sobre o Projeto
 
-Esta Landing Page foi desenvolvida como parte prática do curso oferecido pelo **MediaLab** da **UFMT (Universidade Federal de Mato Grosso)**. 
+Esta Landing Page foi desenvolvida como atividade prática do **Curso de HTML/CSS**, promovido pelo Departamento de Engenharia de Computação e Automação (FaEng) da **UFMT** (Campus Várzea Grande).
 
-O objetivo foi criar uma página promocional para um curso fictício de "Fundamentos da Web", aplicando conceitos de estruturação semântica e estilização visual.
+O desafio principal foi aplicar o conceito de **Pixel Perfect**, transformando um protótipo de alta fidelidade desenhado no **Figma** em código funcional.
 
-## ⚙️ Funcionalidades e Estrutura
+## 🎓 Conteúdo Programático Aplicado
 
-O projeto foi construído utilizando **HTML5 Semântico**, garantindo melhor acessibilidade e organização do código. A página é dividida nas seguintes seções:
+Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimentos adquiridos nas aulas:
 
-* **Header:** Menu de navegação com links internos (âncoras).
-* **Hero Section (Main):** Apresentação do curso com "Call to Action" (Botão de inscrição).
-* **Programação:** Grid de cards exibindo as datas e temas das aulas.
-* **Instrutor:** Seção de biografia com integração de ícones de redes sociais.
-* **Localização:** Integração com Google Maps (Iframe).
-* **Footer:** Rodapé com links e contatos.
+* **Fundamentos Web:** Noções de design, funcionamento da web e seletores CSS.
+* **Figma to Code:** Interpretação de protótipo e conversão fiel para HTML/CSS.
+* **Estruturação Semântica:** Uso correto de tags para acessibilidade e SEO.
+* **Formulários:** Criação de campos para coleta de dados (Input, Label, Button).
+* **CSS Moderno:** Estilização, reset e posicionamento de elementos.
+
+--- 
+Desenvolvido por Carolina Peruare, durante o curso de extensão do MediaLab - UFMT.
   
- ---
-Desenvolvido durante o curso de extensão do MediaLab - UFMT
- 
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
- 
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/Style-CSS3-1572B6?logo=css3&logoColor=white)
