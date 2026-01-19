@@ -22,7 +22,7 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conhecimen
 * **CSS Moderno:** Estilização, reset e posicionamento de elementos.
 
 --- 
-Desenvolvido por Carolina Peruare, durante o curso de extensão do MediaLab - UFMT.
+Desenvolvido por **Carolina Peruare**, durante o curso de extensão do MediaLab - UFMT.
   
 ![Status](https://img.shields.io/badge/Status-Concluído-green)
 ![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?logo=figma&logoColor=white)
